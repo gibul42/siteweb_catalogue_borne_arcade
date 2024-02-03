@@ -1,0 +1,30 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Steel___Satin
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.330000 0.330000 0.330000
+
+newmtl Valeur_par_d_faut_G_n_rique_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.313725 0.313725
+Ks 0.330000 0.330000 0.330000
+
+newmtl droitFichier_1_0_3x
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.439216 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd borneobj/droitFichier_1_0_3x.png
+
+newmtl star_wars_cot__droit1
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.313725 0.313725
+Ks 0.330000 0.330000 0.330000
+
+newmtl Valeur_par_d_faut_G_n_rique
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.313725 0.313725
+Ks 0.330000 0.330000 0.330000
+

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modèle 1</title>
+    <link rel="stylesheet" href="styles.css">
+    <script type="importmap">
+        {
+          "imports": {
+            "three": "https://unpkg.com/three@v0.149.0/build/three.module.js",
+            "three/addons/": "https://unpkg.com/three@v0.149.0/examples/jsm/"
+          }
+        }
+      </script>
+</head>
+<body>
+
+    <h1>Modèle 1</h1>
+
+    <div class="model-details">
+        <!-- Description et titre du modèle -->
+        <h2>Description du Modèle 1</h2>
+        <p>Cette borne d'arcade incarne la nostalgie du jeu...</p>
+
+        <!-- Visualisation 3D à l'aide de Three.js -->
+        <div id="model-viewer"></div>
+    </div>
+
+    <script type='module' src="model-viewer.js"></script>
+
+</body>
+</html>
